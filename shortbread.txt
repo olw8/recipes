@@ -2,3 +2,12 @@ Ingredients:
 - butter
 - Sugar
 - Flour
+
+Instructions:
+ - Buy ingredients
+ - Turn oven on
+ - measure ingredients
+ - mix ingredients
+ - pour into tray
+ - bake for 20 minutes
+ - enjoy!
