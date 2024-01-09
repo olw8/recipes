@@ -2,3 +2,7 @@ Ingredients:
 - butter
 - Sugar
 - Flour
+Instructions:
+-Add flour, butter and Sugar in a bowl
+- Mix well and bake
+
