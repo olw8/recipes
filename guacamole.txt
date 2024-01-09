@@ -6,7 +6,6 @@ Ingredients:
   - Onions
   - Garlic
   - Oil
-  - marshmallow
 
 Instructions:
   - mash avocados
