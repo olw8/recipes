@@ -1,0 +1,17 @@
+Ingredients:
+  - Avocados
+  - Cilantro
+  - Salt
+  - Lime
+  - Onions
+  - Garlic
+  - Oil
+
+Instructions:
+  - mash avocados
+  - chop onions and cilantro
+  - squeeze limes
+  - mix it all together
+  - salt and pepper to test
+
+Now, you can eat delicious guac!
