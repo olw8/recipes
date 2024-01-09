@@ -4,10 +4,5 @@ Ingredients:
 - Flour
 
 Instructions:
- - Buy ingredients
- - Turn oven on
- - measure ingredients
- - mix ingredients
- - pour into tray
- - bake for 20 minutes
- - enjoy!
+- Add flour, butter and Sugar in a bowl
+- Mix well and bake at450 F for 30 min
